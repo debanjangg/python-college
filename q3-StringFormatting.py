@@ -1,0 +1,11 @@
+name = input('Enter name: ')
+age = int(input('Enter Age: '))
+gender = input('Enter Gender: ')
+occupation = input('Enter your occupation: ')
+
+print(r'a. % formatting:')
+print('Hi %s. You are %d years old. You are a %s. You work as a %s.' %(name,age,gender,occupation))
+print('b. str.format():')
+print('Hi {}. You are {} years old. You are a {}. You work as a {}.'.format(name,age,gender,occupation))
+print('c. f-string:')
+print(f'Hi {name}. You are {age} years old. You are a {gender}. You work as a {occupation}.')
