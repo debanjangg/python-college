@@ -1,27 +1,25 @@
 # python-college
 All Python scripts I wrote for my college Assignment.
-The `other` folder has some other extra scripts.
 
 Questions:
-1. Write a Program in Python to accept a String as Input and count the number of:
-  a. Vowels;
-  b. Consonants;
-  c. Digits;
+1. Write a Program in Python to accept a String as Input and count the number of:  
+  a. Vowels;  
+  b. Consonants;  
+  c. Digits;  
   d. Special Characters present in the string.
 
 2. Write a program in Python to accept a String as Input and display all the characters present in the odd numbered positions.
 
-3. WAP in Python to take the following data as input from the user:
-  a. Name
-  b. Age
-  c. Gender
-  d. Occupation
-  “Hi <Name>. You are <Age> years old. You are a <Gender>. You work as a <Occupation>.”
+3. WAP in Python to take the following data as input from the user:  
+  a. Name  
+  b. Age  
+  c. Gender  
+  d. Occupation  
+  “Hi <Name>. You are <Age> years old. You are a <Gender>. You work as a <Occupation>.”<br>
   This string has to be printed thrice, first using % formatting, then str.format() function and then finally using F-Strings.
 
-4. WAP in Python to ask the user for two strings, and print a new string where the first string is reversed,
-  and the second string is converted to upper case.
-  Sample strings: “Pets“, “party”
+4. WAP in Python to ask the user for two strings, and print a new string where the first string is reversed, and the second string is converted to upper case.<br>
+  Sample strings: “Pets“, “party”<br>
   Output: “steP PARTY”. Only use string slicing and + operators
 
 5. Write a Program in Python to take a set of characters as Input in a List and covert it to a String. For example:
